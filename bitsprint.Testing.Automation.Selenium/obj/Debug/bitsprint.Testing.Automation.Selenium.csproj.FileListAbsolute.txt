@@ -1,0 +1,13 @@
+\\psf\Host\Volumes\VM\repositories\clients\bitsprint\bitsprint.Testing.Automation\bitsprint.Testing.Automation.Selenium\bin\Debug\bitsprint.Testing.Automation.Selenium.dll.config
+\\psf\Host\Volumes\VM\repositories\clients\bitsprint\bitsprint.Testing.Automation\bitsprint.Testing.Automation.Selenium\bin\Debug\bitsprint.Testing.Automation.Selenium.dll
+\\psf\Host\Volumes\VM\repositories\clients\bitsprint\bitsprint.Testing.Automation\bitsprint.Testing.Automation.Selenium\bin\Debug\bitsprint.Testing.Automation.Selenium.pdb
+\\psf\Host\Volumes\VM\repositories\clients\bitsprint\bitsprint.Testing.Automation\bitsprint.Testing.Automation.Selenium\bin\Debug\nunit.framework.dll
+\\psf\Host\Volumes\VM\repositories\clients\bitsprint\bitsprint.Testing.Automation\bitsprint.Testing.Automation.Selenium\bin\Debug\TechTalk.SpecFlow.dll
+\\psf\Host\Volumes\VM\repositories\clients\bitsprint\bitsprint.Testing.Automation\bitsprint.Testing.Automation.Selenium\bin\Debug\WebDriver.dll
+\\psf\Host\Volumes\VM\repositories\clients\bitsprint\bitsprint.Testing.Automation\bitsprint.Testing.Automation.Selenium\bin\Debug\WebDriver.Support.dll
+\\psf\Host\Volumes\VM\repositories\clients\bitsprint\bitsprint.Testing.Automation\bitsprint.Testing.Automation.Selenium\bin\Debug\nunit.framework.xml
+\\psf\Host\Volumes\VM\repositories\clients\bitsprint\bitsprint.Testing.Automation\bitsprint.Testing.Automation.Selenium\bin\Debug\WebDriver.xml
+\\psf\Host\Volumes\VM\repositories\clients\bitsprint\bitsprint.Testing.Automation\bitsprint.Testing.Automation.Selenium\bin\Debug\WebDriver.Support.xml
+\\psf\Host\Volumes\VM\repositories\clients\bitsprint\bitsprint.Testing.Automation\bitsprint.Testing.Automation.Selenium\obj\Debug\bitsprint.Testing.Automation.Selenium.csprojResolveAssemblyReference.cache
+\\psf\Host\Volumes\VM\repositories\clients\bitsprint\bitsprint.Testing.Automation\bitsprint.Testing.Automation.Selenium\obj\Debug\bitsprint.Testing.Automation.Selenium.dll
+\\psf\Host\Volumes\VM\repositories\clients\bitsprint\bitsprint.Testing.Automation\bitsprint.Testing.Automation.Selenium\obj\Debug\bitsprint.Testing.Automation.Selenium.pdb
